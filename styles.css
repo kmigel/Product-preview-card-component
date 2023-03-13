@@ -135,7 +135,7 @@ body {
         border-radius: 10px 10px 0 0;
     }
     .product-image {
-        content: url(/images/image-product-mobile.jpg);
+        content: url(https://kmigel.github.io/Product-preview-card-component/images/image-product-desktop.jpg);
     }
 
     .product-type, .product-name, .product-description {
